@@ -1,4 +1,4 @@
-# My_burger-Builder
+# My-burger-Builder
 This project is build using:
 
 ## Frontend:
@@ -9,6 +9,6 @@ This project is build using:
 ## Backend:
 1. Firebase.
 
-
-
+## URL
+https://react-my-burger-7db64.firebaseapp.com/
 
